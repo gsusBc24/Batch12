@@ -7,6 +7,8 @@ public class GitHomework {
 	int age = 12;
 	String name = "Jhon";
 		//This came from Github
+
+		System.out.println("name is: "+name +" age: "+ age);
 		
 	}
 	

@@ -4,6 +4,10 @@ public class GitHomework {
 	
 	public static void main(String[] args) {
 		System.out.println("Hello world");
+	int age = 12;
+	String name = "Jhon";
+		//This came from Github
+		
 	}
 	
 	
